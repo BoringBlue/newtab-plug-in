@@ -1,0 +1,34 @@
+{
+	"manifest_version": 2,
+	"name": "SimpleTab",
+	"version": "1.0.0",
+	"description": "简洁文艺的的浏览器新建tab页插件",
+	"icons":
+	{
+		"16": "img/icon.png",
+		"48": "img/icon.png",
+		"128": "img/icon.png"
+	},
+	// 浏览器右上角图标设置
+	"browser_action": 
+	{
+		"default_icon": "img/icon.png",
+		"default_title": "SimpleTab",
+		"default_popup": ""
+	},
+	// 权限申请
+	"permissions":
+	[
+		"tabs", // 标签
+		"bookmarks",//书签
+		"storage" // 插件本地存储
+	],
+	// 覆盖浏览器默认页面
+	"chrome_url_overrides":
+	{
+		// 覆盖浏览器默认的新标签页
+		"newtab": "newtab.html"
+	},
+	// 默认语言
+	"default_locale": "zh_CN"
+}
