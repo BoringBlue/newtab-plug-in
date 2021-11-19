@@ -7,7 +7,11 @@
 - 打开浏览器->设置->更多工具->扩展程序
 - 点击加载以解压的扩展程序，选择该项目的解压目录
 
- <img src="https://github.com/BoringBlue/newtab-plug-in/blob/main/img/guide01.jpg" width="400"/><br/>
+ <img src="https://github.com/BoringBlue/newtab-plug-in/blob/main/img/guide01.jpg" width="400"/>
+
+- 新建标签页效果图如下
+
+ <img src="https://github.com/BoringBlue/newtab-plug-in/blob/main/img/guide02.jpg" width="520"/><br/>
 
 #### 关于句子接口：
 
