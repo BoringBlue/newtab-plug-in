@@ -1,11 +1,11 @@
 
 	html,body{height: 100%;}
-	body{font-family: 'STFangsong';margin:0;padding:0;}
+	body{font-family: 'STFangsong','fangsong';margin:0;padding:0;}
 	
 	#hitokoto_text{
 		font-size: 28px;
 		color: #444c56;
-		margin-top: 10%;
+		margin-top: 6%;
 	}
 
 	#hitokoto_from{
@@ -31,11 +31,12 @@
         -moz-box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.3) ;
         box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.3) ;
 
-		width: 70%;
-		height: 50%;
+		min-width: 50%;
+        max-width: 60%;
+		/* height: 50%; */
 		text-align: center;
 		position: relative;
-		top: 25%;
+		top: 28%;
 		margin: auto;
 		text-align: center;
     }
