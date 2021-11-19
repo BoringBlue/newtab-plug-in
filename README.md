@@ -7,7 +7,7 @@
 - 打开浏览器->设置->更多工具->扩展程序
 - 点击加载以解压的扩展程序，选择该项目的解压目录
 
- <img src="https://github.com/BoringBlue/newtab-plug-in/blob/main/img/guide01.jpg"/><br/>
+ <img src="https://github.com/BoringBlue/newtab-plug-in/blob/main/img/guide01.jpg" width="200"/><br/>
 
 #### 关于句子接口：
 
