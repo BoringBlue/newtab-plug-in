@@ -1,5 +1,5 @@
 {
-	"manifest_version": 2,
+	"manifest_version": 2,//指定 早期版本2 新版3
 	"name": "SimpleTab",
 	"version": "1.0.0",
 	"description": "简洁文艺的的浏览器新建tab页插件",
